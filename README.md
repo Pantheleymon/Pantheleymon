@@ -3,7 +3,8 @@
 <h1> About me </h1>
 <p>I'm Prokhor from Russia, and I am a passionate self-taught frontend developer. I really enjoy learning languages and frameworks like React.. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
-<h2>Languages and tools:</h2><br/>
+<h2>Languages and tools:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=html,bootstrap,css,sass,js,react,git,figma)](https://skillicons.dev)
 
 <!--
