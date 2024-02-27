@@ -5,7 +5,7 @@
 
 <h2>Languages and tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwind,css,sass,js,react,redux,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwind,css,sass,js,react,redux,git,postman,figma)](https://skillicons.dev)
 
 <h3>Stats:</h3>
 
